@@ -2,3 +2,14 @@ __pycache__/
 *.pyc
 .venv/
 app/loan_memory.db
+
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+secrets/
+credentials.json
+*.db
